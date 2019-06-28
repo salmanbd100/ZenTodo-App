@@ -68,7 +68,7 @@ class App extends Component {
   render() {
     return (
       <div className="todolist-wrap">
-        <img className="logo" src="asstes/images/logo.jpeg" alt="" />
+        {/* <img className="logo" src="asstes/images/logo.jpeg" alt="" /> */}
         <div className="date-time">Wed, 10:41 AM</div>
         <div className="bg-image">
           <img src="asstes/images/background.jpeg" alt="" />
